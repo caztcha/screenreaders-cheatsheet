@@ -62,7 +62,7 @@ Windows および macOS のスクリーンリーダーには、固有の装飾�
 
 ### Windows のスクリーンリーダーを Mac で操作することも想定する
 
-Windows のスクリーンリーダーを、macOS (Parallels Desktop) で操作することもあるかと思います。その場合、Windows マシン特有の装飾キーは使えないため、Mac で使用可能な装飾キーも併記しています。たとえば、Windows の [insert] キーに相当する Mac での操作は、[fn] ＋ [return] キーになります。また、Windows の [alt] キーに相当する Mac での操作は、[option] キーになります。
+Windows のスクリーンリーダーを、macOS (Parallels Desktop) で操作するケースもあるかと思います。その場合、Windows マシン特有のキーは使えないため、Mac で使用可能なキーも併記しています。たとえば、Windows の [insert] キーに相当する Mac での操作は、[fn] ＋ [return] キーになります。また、Windows の [alt] キーに相当する Mac での操作は、[option] キーになります。
 
 ---
 
