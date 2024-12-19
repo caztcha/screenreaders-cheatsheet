@@ -52,9 +52,9 @@
 
 Windows および macOS のスクリーンリーダーには、固有の装飾キーを持つものがあります。
 
-- NVDA (Windows) : 「NVDA キー」
-- ナレーター (Windows) : 「ナレーターキー」
-- VoiceOver (macOS) : 「VO キー」
+- NVDA (Windows) : NVDA キー
+- ナレーター (Windows) : ナレーターキー
+- VoiceOver (macOS) : VO キー
 
 このチートシートでは、これら固有の装飾キーを記憶していなくても使えるように、デフォルトのキー構成を用いる前提で、具体的なキー名を書き出しています。「NVDA キー」および「ナレーターキー」であれば [insert] キー、「VO キー」であれば [control] ＋ [option] キー、という具合です。
 
